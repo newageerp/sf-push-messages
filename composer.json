@@ -1,12 +1,14 @@
 {
   "name": "newageerp/sf-push-messages",
-  "type": "library",
+  "type": "symfony-bundle",
   "autoload": {
     "psr-4": {
       "Newageerp\\SfPushMessages\\": "src/"
     }
   },
-  "require": {},
+  "require": {
+    "symfony/framework-bundle": "^5.0"
+  },
   "license": "MIT",
   "authors": [
     {
