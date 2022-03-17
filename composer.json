@@ -1,10 +1,17 @@
 {
-    "name": "newageerp/sf-push-messages",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Newageerp\\SfPushMessages\\": "src/"
-        }
-    },
-    "require": {}
+  "name": "newageerp/sf-push-messages",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Newageerp\\SfPushMessages\\": "src/"
+    }
+  },
+  "require": {},
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arturas Jegorenkovas",
+      "email": "info@newageerp.com"
+    }
+  ]
 }
