@@ -4,7 +4,7 @@ namespace Newageerp\SfPushMessages\Object;
 
 use Newageerp\SfPushMessages\Interface\IPushMessage;
 
-abstract class PushMessage implements IPushMessage
+class PushMessage implements IPushMessage
 {
     protected string $notificationTitle = '';
 
