@@ -1,0 +1,10 @@
+{
+    "name": "newageerp/sf-push-messages",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Newageerp\\SfPushMessages\\": "src/"
+        }
+    },
+    "require": {}
+}
